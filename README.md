@@ -1,2 +1,2 @@
 # Question-feedback-of-maktabkhone
-Error for adding apps to INSTALLED_APPS
+Error for getting test.css file from static
